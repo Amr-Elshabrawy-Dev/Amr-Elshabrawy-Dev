@@ -48,30 +48,30 @@ Let's build something amazing together! 🚀
 <div align="center">
   <picture>
     <source
-      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF79C6&ic=BD93F9&bc=282A36"
+      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF6E96&ic=79DAFA&bc=282A36"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=BD93F9&bc=FFFFFF"
+      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=79DAFA&bc=FFFFFF"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
+      src="https://github-stats-alpha.vercel.app/api?username=Amr-Elshabrawy-Dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
       alt="GitHub Contribution Stats"
-      width="50%"
+      width="70%"
     />
   </picture>
+
+   <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Amr-Elshabrawy-Dev&theme=dracula&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="70%"
+  />
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Activity Stats"
-    width="50%"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=amr-elshabrawy-dev&theme=dracula&hide_border=true"
-    alt="GitHub Streak Stats"
-    width="50%"
+    width="70%"
   />
 </div>
 
@@ -81,19 +81,19 @@ Let's build something amazing together! 🚀
 
 <div align="center">
   <a href="https://github.com/Amr-Elshabrawy-Dev/dashboard" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=dracula&hide_border=true" alt="dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=dracula&hide_border=true" alt="dashboard"  width="70%" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=dracula&hide_border=true" alt="Weather App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=dracula&hide_border=true" alt="Weather App"  width="70%" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/twstudy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=dracula&hide_border=true" alt="online platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=dracula&hide_border=true" alt="online platform"  width="70%" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/landing-page" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=dracula&hide_border=true" alt="landing-page" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=dracula&hide_border=true" alt="landing-page"  width="70%" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/rich-black-theme" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=dracula&hide_border=true" alt="vscode theme" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=dracula&hide_border=true" alt="vscode theme"  width="70%" />
   </a>
 </div>
 
