@@ -2,9 +2,15 @@
 
 # Hi there! 👋 I'm Amr Elshabrawy
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
+</div>
+
 ## 👨‍💻 Frontend Developer | React & Next.js Specialist
 
+<div align="center" style="font-family: 'Righteous', cursive;">
 I'm a passionate Frontend Developer dedicated to crafting exceptional web experiences. Specializing in React and Next.js, I transform complex challenges into elegant, user-friendly solutions.
+</div>
 
 - 🚀 Driving innovation through modern web technologies
 - 🌱 Advancing expertise in TypeScript, GraphQL, and React ecosystem
