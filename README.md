@@ -1,21 +1,33 @@
 <img src="github-banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=BD93F9&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
 </div>
 
 ## 🚀 About Me
 
-### 👨‍💻 Frontend Developer | React & Next.js Specialist
+### 👨‍💻 Frontend Developer | React & Next.js Expert
 
-I'm a passionate Frontend Developer committed to crafting engaging and dynamic web experiences. With expertise in React.js and Next.js, I transform ideas into responsive, scalable, and user-friendly applications. My goal is to build high-performance, aesthetically pleasing digital products that enhance user interaction and experience.
+Passionate Frontend Developer specializing in creating exceptional web experiences. I leverage React.js and Next.js to build performant, responsive applications that users love. My focus is on delivering clean, maintainable code and intuitive user interfaces.
 
-- 🚀 Innovating with modern web technologies
-- 🌱 Expanding skills in Redux, TypeScript, and backend technologies (Node.js, Laravel)
-- 💡 Building scalable and efficient applications with a focus on performance
-- 🤝 Seeking collaboration on impactful and challenging projects
-- ⚡ Exploring the latest trends in UI/UX, animations, and web development best practices
-- 💻 Check out my repositories for my latest projects and contributions! 🚀
+<img align="right" width="40%" height="300" alt="developer animation" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47ywhttsctuucf9s792xdvjxjrm0ta13vl9v0t4hdj&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+
+#### What I Do
+
+- 🎯 Craft pixel-perfect, responsive web applications
+- 🛠️ Develop with React.js, Next.js, and TypeScript
+- 📱 Create seamless mobile-first experiences
+- ⚡ Optimize for performance and SEO
+- 🔄 Practice agile development methodologies
+
+#### Currently
+
+- 📚 Mastering advanced state management patterns
+- 🌐 Exploring serverless architectures
+- 🤝 Open to collaboration on innovative projects
+- 🔍 Seeking opportunities to create impact through code
+
+Let's build something amazing together! 🚀
 
 ---
 
@@ -34,8 +46,14 @@ I'm a passionate Frontend Developer committed to crafting engaging and dynamic w
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=react&hide_border=true" alt="GitHub Streak" />
+  <picture>
+   <source srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF79C6&ic=BD93F9&bc=282A36" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=BD93F9&bc=FFFFFF" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
@@ -44,19 +62,19 @@ I'm a passionate Frontend Developer committed to crafting engaging and dynamic w
 
 <div align="center">
   <a href="https://github.com/Amr-Elshabrawy-Dev/dashboard" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=react&hide_border=true" alt="dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=dracula&hide_border=true" alt="dashboard" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=react&hide_border=true" alt="Weather App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=dracula&hide_border=true" alt="Weather App" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/twstudy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=react&hide_border=true" alt="online platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=dracula&hide_border=true" alt="online platform" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/landing-page" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=react&hide_border=true" alt="landing-page" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=dracula&hide_border=true" alt="landing-page" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/rich-black-theme" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=react&hide_border=true" alt="vscode theme" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=dracula&hide_border=true" alt="vscode theme" />
   </a>
 </div>
 
@@ -65,7 +83,7 @@ I'm a passionate Frontend Developer committed to crafting engaging and dynamic w
 ## 🏆 Git Profile Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-elshabrawy-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-elshabrawy-dev&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
