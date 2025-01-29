@@ -44,20 +44,28 @@ I'm a passionate Frontend Developer committed to crafting engaging and dynamic w
 
 <div align="center">
   <a href="https://github.com/Amr-Elshabrawy-Dev/dashboard" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=react" alt="dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=react&hide_border=true" alt="dashboard" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=react" alt="Weather App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=react&hide_border=true" alt="Weather App" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/twstudy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=react" alt="online platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=react&hide_border=true" alt="online platform" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/landing-page" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=react" alt="landing-page" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=react&hide_border=true" alt="landing-page" />
   </a>
   <a href="https://github.com/Amr-Elshabrawy-Dev/rich-black-theme" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=react" alt="vscode theme" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=react&hide_border=true" alt="vscode theme" />
   </a>
+</div>
+
+---
+
+## 🏆 Git Profile Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-elshabrawy-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
