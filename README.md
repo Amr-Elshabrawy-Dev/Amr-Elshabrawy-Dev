@@ -1,6 +1,13 @@
-<img src="github-banner.png" alt="GitHub Banner" width="100%" />
+<!-- Add Google Font -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
-# Hi there! 👋 I'm Amr Elshabrawy
+  .custom-font {
+    font-family: 'Righteous', cursive;
+  }
+</style>
+
+<img src="github-banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
@@ -8,9 +15,7 @@
 
 ## 👨‍💻 Frontend Developer | React & Next.js Specialist
 
-<div align="center" style="font-family: 'Righteous', cursive;">
-I'm a passionate Frontend Developer dedicated to crafting exceptional web experiences. Specializing in React and Next.js, I transform complex challenges into elegant, user-friendly solutions.
-</div>
+<p class="custom-font">I'm a passionate Frontend Developer dedicated to crafting exceptional web experiences. Specializing in React and Next.js, I transform complex challenges into elegant, user-friendly solutions.</p>
 
 - 🚀 Driving innovation through modern web technologies
 - 🌱 Advancing expertise in TypeScript, GraphQL, and React ecosystem
@@ -51,9 +56,10 @@ I'm a passionate Frontend Developer dedicated to crafting exceptional web experi
  ---
 
   <div align="center">
-    <h1 style="color: #2ea44f;">👨‍💻 AMR ELSHABRAWY</h1>
-      <img src="./amr.svg" alt="Amr Elshabrawy Logo" width="100px" style="margin: 1rem 0;">
-    <p style="color: #586069; font-size: 1.1rem; margin-top: 1rem;">
+    <img src="./amr.svg" alt="Amr Elshabrawy Logo" width="100px">
+    <br>
+    <br>
+    <p>
         Created with 💚 by <strong><a href="https://github.com/Amr-Elshabrawy-Dev">AMR ELSHABRAWY</a></strong> 🌟 &copy; 2025
     </p>
   </div>
