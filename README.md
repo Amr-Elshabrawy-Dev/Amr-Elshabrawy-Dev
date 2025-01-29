@@ -47,12 +47,32 @@ Let's build something amazing together! 🚀
 
 <div align="center">
   <picture>
-   <source srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF79C6&ic=BD93F9&bc=282A36" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=BD93F9&bc=FFFFFF" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+    <source
+      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF79C6&ic=BD93F9&bc=282A36"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=BD93F9&bc=FFFFFF"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
+      alt="GitHub Contribution Stats"
+      width="50%"
+    />
   </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Activity Stats"
+    width="50%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=amr-elshabrawy-dev&theme=dracula&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="50%"
+  />
 </div>
 
 ---
