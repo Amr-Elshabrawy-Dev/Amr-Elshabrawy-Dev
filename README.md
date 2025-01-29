@@ -53,7 +53,6 @@ Let's build something amazing together! 🚀
   </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
