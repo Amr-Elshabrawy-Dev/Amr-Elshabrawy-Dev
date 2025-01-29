@@ -10,7 +10,7 @@
 
 Passionate Frontend Developer specializing in creating exceptional web experiences. I leverage React.js and Next.js to build performant, responsive applications that users love. My focus is on delivering clean, maintainable code and intuitive user interfaces.
 
-<img align="right" width="40%" height="300" alt="developer animation" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47ywhttsctuucf9s792xdvjxjrm0ta13vl9v0t4hdj&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 #### What I Do
 
