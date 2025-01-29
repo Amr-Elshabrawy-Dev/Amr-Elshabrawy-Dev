@@ -1,35 +1,21 @@
-<!-- Add Google Font -->
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-
-  .custom-font {
-    font-family: 'Righteous', cursive;
-  }
-</style>
-
 <img src="github-banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
 </div>
 
-## 👨‍💻 Frontend Developer | React & Next.js Specialist
+## 🚀 About Me
 
-<p class="custom-font">I'm a passionate Frontend Developer dedicated to crafting exceptional web experiences. Specializing in React and Next.js, I transform complex challenges into elegant, user-friendly solutions.</p>
+### 👨‍💻 Frontend Developer | React & Next.js Specialist
 
-- 🚀 Driving innovation through modern web technologies
-- 🌱 Advancing expertise in TypeScript, GraphQL, and React ecosystem
-- 🤝 Seeking collaborative opportunities on impactful projects
-- 💡 Building scalable, performant applications
-- ⚡ Explore my repositories for code samples and projects
+I'm a passionate Frontend Developer committed to crafting engaging and dynamic web experiences. With expertise in React.js and Next.js, I transform ideas into responsive, scalable, and user-friendly applications. My goal is to build high-performance, aesthetically pleasing digital products that enhance user interaction and experience.
 
-## 🌐 Let's Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
-
-</div>
+- 🚀 Innovating with modern web technologies
+- 🌱 Expanding skills in Redux, TypeScript, and backend technologies (Node.js, Laravel)
+- 💡 Building scalable and efficient applications with a focus on performance
+- 🤝 Seeking collaboration on impactful and challenging projects
+- ⚡ Exploring the latest trends in UI/UX, animations, and web development best practices
+- 💻 Check out my repositories for my latest projects and contributions! 🚀
 
 ---
 
@@ -46,21 +32,52 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-elshabrawy-dev&theme=react&hide_border=true" alt="GitHub Streak" />
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" /></div>
 </div>
 
- ---
+---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Amr-Elshabrawy-Dev/dashboard" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=react" alt="dashboard" />
+  </a>
+  <a href="https://github.com/Amr-Elshabrawy-Dev/weather-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=react" alt="Weather App" />
+  </a>
+  <a href="https://github.com/Amr-Elshabrawy-Dev/twstudy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=react" alt="online platform" />
+  </a>
+  <a href="https://github.com/Amr-Elshabrawy-Dev/landing-page" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=react" alt="landing-page" />
+  </a>
+  <a href="https://github.com/Amr-Elshabrawy-Dev/rich-black-theme" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=react" alt="vscode theme" />
+  </a>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201202546653?text=Hi%20Amr!%20I%20saw%20your%20portfolio%20and%20would%20love%20to%20discuss%20a%20potential%20collaboration) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-Elshabrawy-Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/amr-elshabrawy-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrelshabrawy.dev@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/@AmrElshabr43803)
+
+</div>
+
+---
 
   <div align="center">
     <img src="./amr.svg" alt="Amr Elshabrawy Logo" width="100px">
     <br>
     <br>
-    <p>
-        Created with 💚 by <strong><a href="https://github.com/Amr-Elshabrawy-Dev">AMR ELSHABRAWY</a></strong> 🌟 &copy; 2025
+    <p align="center">
+      Created with 💚 and ☕ by <strong><a href="https://github.com/Amr-Elshabrawy-Dev" target="_blank" rel="noopener noreferrer">AMR ELSHABRAWY</a></strong><br>
+      &copy; 2025 | All Rights Reserved | Keep coding 🚀
     </p>
   </div>
 
