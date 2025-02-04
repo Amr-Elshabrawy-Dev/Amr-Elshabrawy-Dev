@@ -77,28 +77,6 @@ Let's build something amazing together! 🚀
 
 ---
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Amr-Elshabrawy-Dev/dashboard" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=dashboard&theme=dracula&hide_border=true" alt="dashboard"  width="70%" />
-  </a>
-  <a href="https://github.com/Amr-Elshabrawy-Dev/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=weather-app&theme=dracula&hide_border=true" alt="Weather App"  width="70%" />
-  </a>
-  <a href="https://github.com/Amr-Elshabrawy-Dev/twstudy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=twstudy&theme=dracula&hide_border=true" alt="online platform"  width="70%" />
-  </a>
-  <a href="https://github.com/Amr-Elshabrawy-Dev/landing-page" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=landing-page&theme=dracula&hide_border=true" alt="landing-page"  width="70%" />
-  </a>
-  <a href="https://github.com/Amr-Elshabrawy-Dev/rich-black-theme" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Elshabrawy-Dev&repo=rich-black-theme&theme=dracula&hide_border=true" alt="vscode theme"  width="70%" />
-  </a>
-</div>
-
----
-
 ## 🏆 Git Profile Trophies
 
 <div align="center">
