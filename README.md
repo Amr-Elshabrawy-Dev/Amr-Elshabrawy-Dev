@@ -1,33 +1,43 @@
-<img src="./assets/github-banner.png" alt="GitHub Banner" width="100%" />
-
+<div align=center>
+  <img src="./assets/github-banner.png" alt="GitHub Banner" width="95%"/>
+</div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=BD93F9&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
 </div>
 
 ## 🚀 About Me
 
-### 👨‍💻 Frontend Developer | React & Next.js Expert
+### 👨‍💻 Frontend Developer | React & Next.js
 
-Passionate Frontend Developer specializing in creating exceptional web experiences. I leverage React.js and Next.js to build performant, responsive applications that users love. My focus is on delivering clean, maintainable code and intuitive user interfaces.
+I'm a dedicated Frontend Developer from Egypt who's passionate about creating modern and responsive web applications. I'm currently focused on learning and building projects using React.js and Next.js, aiming to deliver high-performance, SEO-friendly applications with great user experiences.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-#### What I Do
+#### 💻 What I'm Learning & Practicing
 
-- 🎯 Craft pixel-perfect, responsive web applications
-- 🛠️ Develop with React.js, Next.js, and TypeScript
-- 📱 Create seamless mobile-first experiences
-- ⚡ Optimize for performance and SEO
-- 🔄 Practice agile development methodologies
+- 🔧 Developing dynamic React/Next.js apps with clean code
 
-#### Currently
+- 🛠️ Styling with Tailwind CSS and SASS
 
-- 📚 Mastering advanced state management patterns
-- 🌐 Exploring serverless architectures
-- 🤝 Open to collaboration on innovative projects
-- 🔍 Seeking opportunities to create impact through code
+- ⚡ Improving web performance and understanding Core Web Vitals
 
-Let's build something amazing together! 🚀
+- 🔄 Managing state with Redux and Context API
+
+- 🔍 Exploring SEO basics and web accessibility best practices
+
+#### 🌱 Currently Exploring
+
+- 🚀 Next.js 15 and Server Components
+
+- 🌐 Full-stack development with GraphQL
+
+- 🧪 Writing better code using TypeScript and learning testing fundamentals
+
+- 🤝 Starting to contribute to open-source projects
+
+- ✍️ Sharing my journey and learnings through technical content
+
+I'm actively building my skills and excited to grow through hands-on projects and real-world experience. Let’s connect and collaborate! 🚀
 
 ---
 
