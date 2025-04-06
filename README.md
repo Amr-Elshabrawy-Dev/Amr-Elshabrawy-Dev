@@ -1,4 +1,4 @@
-<img src="github-banner.png" alt="GitHub Banner" width="100%" />
+<img src="./assets/github-banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=BD93F9&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Elshabrawy!+😎;" />
@@ -36,31 +36,21 @@ Let's build something amazing together! 🚀
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Firebase](https://img.shields.io/badge/Firebase-%23F24E1E?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%231E1E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%23855DDE.svg?style=for-the-badge&logo=webpack&logoColor=white) ![Svg](https://img.shields.io/badge/svg-FFB13B?style=for-the-badge&logo=svg&logoColor=000000) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jquery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![d3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3&logoColor=white)
+
 </div>
 
-## 🌟 Contributions
+## 🌟 Contributions in the last year
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-elshabrawy-dev&theme=dracula&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-elshabrawy-dev&theme=dracula&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Contribution Graph" width="95%" />
+  
+  <!-- Contribution Stats Side by Side -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-elshabrawy-dev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="47%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=amr-elshabrawy-dev&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" width="47%" />
+  </p>
 </div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amr-elshabrawy-dev&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="95%" />
-</div>
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -69,29 +59,32 @@ Let's build something amazing together! 🚀
     <source
       srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=282A36&tc=FF6E96&ic=79DAFA&bc=282A36"
       media="(prefers-color-scheme: dark)"
+      width="95%"
     />
     <source
       srcset="https://github-stats-alpha.vercel.app/api?username=amr-elshabrawy-dev&cc=FFFFFF&tc=FF79C6&ic=79DAFA&bc=FFFFFF"
       media="(prefers-color-scheme: light)"
+      width="95%"
     />
     <img
       src="https://github-stats-alpha.vercel.app/api?username=Amr-Elshabrawy-Dev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
       alt="GitHub Contribution Stats"
-      width="70%"
+      width="95%"
     />
   </picture>
 
-   <img
+<img
     src="https://github-readme-streak-stats.herokuapp.com?user=Amr-Elshabrawy-Dev&theme=dracula&hide_border=true"
     alt="GitHub Streak Stats"
-    width="70%"
+    width="95%"
   />
 
-  <img
+<img
     src="https://github-readme-stats.vercel.app/api?username=amr-elshabrawy-dev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Activity Stats"
-    width="70%"
+    width="95%"
   />
+
 </div>
 
 ---
@@ -115,7 +108,7 @@ Let's build something amazing together! 🚀
 ---
 
   <div align="center">
-    <img src="./amr.svg" alt="Amr Elshabrawy Logo" width="100px">
+    <img src="./assets/amr.svg" alt="Amr Elshabrawy Logo" width="100px">
     <br>
     <br>
     <p align="center">
